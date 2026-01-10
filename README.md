@@ -1,6 +1,6 @@
 👋 Hi, I'm Yakov!
 
-👨🏻‍💻 I'm a Python Backend Developer with 2 years of experience building high-load web applications and RESTful APIs.
+👨🏻‍💻 I'm a **Python Backend Developer** with 2 years of experience building high-load web applications and RESTful APIs.
 
 🛠 My stack: FastAPI, Django/DRF, Flask, PostgreSQL, Docker, RabbitMQ, CI/CD, Go (basics).
 
