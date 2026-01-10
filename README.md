@@ -16,7 +16,7 @@
 📚 Constantly learning: exploring Go for high-performance systems, following backend trends, and maintaining pet projects.
 
 📫 Contact
-- Telegram: [@Jacob_993](https://t.me/Jacob_993)  
-- Email: grigorevakov2001@outlook.com
+- **Telegram**: [@Jacob_993](https://t.me/Jacob_993)  
+- **Email**: grigorevakov2001@outlook.com
 
 ✨ Open to new projects and cooperation.
