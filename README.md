@@ -1,5 +1,4 @@
-👋 Hi, I'm Yakov!
-
+# 👋 Hi, I'm Yakov!
 💻 Backend Developer
 ⚡ Main language — Python | Also learning Go
 🚀 I specialize in building high-load web applications, RESTful APIs, and microservices.
