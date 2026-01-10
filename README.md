@@ -1,9 +1,18 @@
-👋 Hi, I'm Yakov!
+# Hi 👋, my name is Yakov
 
-👨🏻‍💻 I'm a **Python Backend Developer** with 2 years of experience building high-load web applications and RESTful APIs.
+💻 **Python Backend Developer** since 2023
+⚡ Main programming language — Python | Secondary Go
+🚀 I specialize in creating high-load web applications, microservices, REST APIs, and automating business processes.
 
-🛠 My stack: FastAPI, Django/DRF, Flask, PostgreSQL, Docker, RabbitMQ, CI/CD, Go (basics).
+## 🛠️ My stacks
+- **Language**: Python, Go (basics)
+- **Frameworks**: FastAPI, Django/DRF, Flask
+- **Database**: PostgreSQL, Redis  
+- **Libraries**: SQLAlchemy, Requests, Pytest, Selenium, Aiogram
+- **Integrations**: Bitrix24 REST API, Tilda API
 
-🚀 I automate business processes, develop parsers and integrations (Bitrix24, Tilda), and optimize backend performance — achieving up to 35–40% API speed improvements.
+## 📫 Contact
+- Telegram: [@Jacob_993](https://t.me/Jacob_993)
+- Email: grigorevakov2001@outlook.com
 
-📚 Constantly learning: currently exploring Go for high-performance systems, following backend trends, and maintaining pet projects on GitHub.
+✨ I am open to new projects and cooperation. Always learning and exploring new technologies.
