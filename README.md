@@ -14,9 +14,3 @@
 💡 I automate business processes, develop parsers and integrations, and optimize backend performance — achieving up to 35–40% API speed improvements.
 
 📚 Constantly learning: exploring Go for high-performance systems, following backend trends, and maintaining pet projects.
-
-📫 Contact
-- **Telegram**: [@Jacob_993](https://t.me/Jacob_993)  
-- **Email**: grigorevakov2001@outlook.com
-
-✨ Open to new projects and cooperation.
