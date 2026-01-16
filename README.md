@@ -8,7 +8,7 @@ I'm a **Backend Developer** from **Russia**, specializing in building high-perfo
 I specialize in building high-load web applications, RESTful APIs, and microservices.
 
 ## My Tech Stack
-[![Python, Go, FastAPI, Django, Flask, GraphQL, Redis, PostgreSQL, SQLite, MySQL, RabbitMQ, Nginx, Docker, Markdown, Linux, Bash, Selenium, Git, GitHub](https://skillicons.dev/icons?i=python,go,fastapi,django,flask,graphql,redis,postgresql,sqlite,mysql,rabbitmq,nginx,docker,markdown,linux,bash,selenium,git,github&perline=19)](https://skillicons.dev)
+[![Python, Go, FastAPI, Django, Flask, Qt, Postamn, GraphQL, Redis, PostgreSQL, SQLite, MySQL, RabbitMQ, Nginx, Docker, Markdown, Linux, Bash, PyCharm, Selenium, Git, GitHub](https://skillicons.dev/icons?i=python,go,fastapi,django,flask,qt,postman,graphql,redis,postgresql,sqlite,mysql,rabbitmq,nginx,docker,markdown,linux,bash,pycharm,selenium,git,github&perline=11)](https://skillicons.dev)
 
 I automate business processes, develop parsers and integrations, and optimize backend performance — achieving up to 35–40% API speed improvements.
 
